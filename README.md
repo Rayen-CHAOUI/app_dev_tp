@@ -18,3 +18,7 @@ The app uses the built-in `ACTION_BATTERY_CHANGED` intent, which is a **sticky b
   - `BatteryManager.EXTRA_SCALE` to calculate the percentage.
   - `BatteryManager.EXTRA_PLUGGED` to check if the phone is charging.
 - The status message is then displayed on a `TextView` in the **main activity**.
+
+## Authors
+- CHAOUI RAYEN DJILLALI.
+- BRAHIM KHALIL.
