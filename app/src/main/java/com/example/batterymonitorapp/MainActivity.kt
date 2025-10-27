@@ -5,6 +5,7 @@ import android.content.IntentFilter
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.TextView
+import androidx.core.content.ContextCompat.registerReceiver
 
 class MainActivity : AppCompatActivity() {
     private lateinit var batteryReceiver: BatteryReceiver

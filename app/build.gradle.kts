@@ -6,9 +6,7 @@ plugins {
 
 android {
     namespace = "com.example.batterymonitorapp"
-    compileSdk {
-        version = release(36)
-    }
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.batterymonitorapp"

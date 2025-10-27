@@ -1,4 +1,4 @@
-# BatteryMonitorApp
+# BatteryMonitorApp (Academic Project)
 
 Android application displays the **current battery percentage**, **charging state**, and shows a **warning message when the battery level is below 20%** or **Battery Health : good.** if above 20%.
 
